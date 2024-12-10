@@ -22,34 +22,34 @@ I’m a Senior Software Engineer (back-end first) with 25 years of experience in
 - In 2001, working as a VB6 programmer, I created one of the largest systems in terms of available features, for sports clubs and gyms in existence on the market in Brazil. It took 3 years to complete the project, but there are still clubs using it to this day;
 
 ## CAREER HISTORY
-### Owner, ezSystems Consulting Lda. 	Sep 2022 – present
+### Founder of ezSystems Consulting &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sep 2022 – present
 Working alongside companies of all sizes, from migration of projects with an old tech-stack to greenfield projects, from start-ups launching their MVP to well-stablished companies adding features to an existing product, I’ve been enjoying to work with many interesting projects and people! Most recently I was called back to collaborate with Blatchford UK and I'm responsible for the maintenance and improvement of RMS, one of their main systems.
 > C# .Net 4.2, jQuery, SQL Server for RMS, and NodeJS with Express/Fastify/Koa, Auth0, JWT, Socket.io, EJS/ETA, Vue3/Vuex (with Vite), Nuxt, Web Components, custom events, ECMAScript 2022 and TypeScript (back and front-end, depending on the framework and the demands of the project), MySQL/PostgreSQL, micro-services, .Net Core C# 7, Jest, RabbitMQ, Redis, Jenkins, Docker, Github actions, Puppeteer/Playwright, PrimeFaces, Shoelace, WebSockets for newer projects.
 
-### Senior Software Engineer, IKEA (via Nexere Ltd.)	Apr 2022 – Sep  2022
+### Senior Software Engineer, IKEA (via Nexere Ltd.)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Apr 2022 – Sep  2022
 Acting as back-end engineer, part of the cyber security group, writing APIs that were used by one of the newest products in the company. Working in a Agile environment directly with the Project leader to make sure we deliver the MVP in time.
 > NodeJS with Fastify, PostgreSQL, Google Cloud VPSs, Auth0, React, Docker
 
-### Senior Software Developer, Computech Lda.	Jun 2021 – Apr 2022
+### Senior Software Developer, Computech Lda.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jun 2021 – Apr 2022
 Acting as full-stack developer to migrate and transform the tech-stack (currently Delphi 7 with IntraWeb, SOAP APIs and DBIsam4). I was responsible for creating a new base code, design the UI/UX, database structure, create the microservices, gateway and APIs and training other developers on the team, as well as writing the documentation for everything.
 > .Net Core C# 7, NodeJS, Express, SCSS, MySQL 8, Vue3, Vite & Vuex
 
-### Senior Software Engineer, Avi Medical GmbH	Aug 2020 – Jun 2021
+### Senior Software Engineer, Avi Medical GmbH&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aug 2020 – Jun 2021
 Acting as Senior Software Engineer at Avi Medical, my responsibilities surpassed the day-to-day coding routine. I helped interviewing new candidates evaluating technical skills, wrote documentation, participated in code reviews, coordinated external service providers with our internal team to make sure our project was moving in the correct direction.
 > Digital Ocean VPS, AWS, MySQL 8, NodeJS, Express, React, Docker
 
-### Freelance contracts, multiple companies (during COVID)	Mar 2020 – Aug 2020
+### Freelance contracts, multiple companies (during COVID)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar 2020 – Aug 2020
 Mobile and Web development of various types, using various technologies during the worst part of the pandemic. Mostly working on REST APIs with NodeJS and Express/Fastify, and React web development for admin dashboards, landing pages and other general purpose websites.
 
-### Full-stack Developer, WebAmericas  Ltd.	Nov 2011 – Nov 2019
+### Full-stack Developer, WebAmericas Ltd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nov 2011 – Nov 2019
 Greenfield project, reverse-engineered from an old version. Acting as Senior Developer, I defined the basic architecture (MVC) and the tech stack. I developed the front-end framework  with jQuery and also created proprietary web components that could be reused and set up easily with vanilla JS/HTML/CSS.
 > C# ASP.Net 4.0, SQL Server, Javascript (ES5), jQuery/jQuery UI
 
 ## EDUCATION & TRAINING
-### Universidade Estácio de Sá (Rio de Janeiro, Brasil)	2009 – 2012
+### Universidade Estácio de Sá (Rio de Janeiro, Brasil)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2009 – 2012
 Computer and Information Sciences
 
-### Infnet Institute (Rio de Janeiro, Brasil)	2007 – 2007
+### Infnet Institute (Rio de Janeiro, Brasil)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2007 – 2007
 MCP - Microsoft Certified Professional
 Managing and Maintaining Windows 2003 Server Environment
 
