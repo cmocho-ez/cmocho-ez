@@ -4,8 +4,8 @@
 |--------------------|------------------|---------------------------------|-------------------------------|
 
 <div style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; align-content: start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiandmocho&layout=compact&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cristiandmocho&show_icons=true&theme=cobalt&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmocho-ez&layout=compact&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cmocho-ez&show_icons=true&theme=cobalt&hide_rank=true" />
 </div>
 
 ---
